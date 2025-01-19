@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/Random-Facts/static/css/main.e15aa409.css",
-    "main.js": "/github.io/Random-Facts/static/js/main.30a26a0a.js",
-    "static/js/488.7877d3f2.chunk.js": "/github.io/Random-Facts/static/js/488.7877d3f2.chunk.js",
-    "index.html": "/github.io/Random-Facts/index.html",
-    "main.e15aa409.css.map": "/github.io/Random-Facts/static/css/main.e15aa409.css.map",
-    "main.30a26a0a.js.map": "/github.io/Random-Facts/static/js/main.30a26a0a.js.map",
-    "488.7877d3f2.chunk.js.map": "/github.io/Random-Facts/static/js/488.7877d3f2.chunk.js.map"
+    "main.css": "/Random-Facts/static/css/main.e15aa409.css",
+    "main.js": "/Random-Facts/static/js/main.de422dcd.js",
+    "static/js/488.7877d3f2.chunk.js": "/Random-Facts/static/js/488.7877d3f2.chunk.js",
+    "index.html": "/Random-Facts/index.html",
+    "main.e15aa409.css.map": "/Random-Facts/static/css/main.e15aa409.css.map",
+    "main.de422dcd.js.map": "/Random-Facts/static/js/main.de422dcd.js.map",
+    "488.7877d3f2.chunk.js.map": "/Random-Facts/static/js/488.7877d3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e15aa409.css",
-    "static/js/main.30a26a0a.js"
+    "static/js/main.de422dcd.js"
   ]
 }
